@@ -1,1 +1,5 @@
 @import "tailwindcss";
+
+.OverlayContainer {
+  background: rgba(0, 0, 0, 0.521);
+}
